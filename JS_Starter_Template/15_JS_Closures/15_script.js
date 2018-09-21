@@ -1,0 +1,1 @@
+// Closures Concept of JavaScript
